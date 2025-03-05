@@ -1,4 +1,4 @@
-Sure! Here's an extended version:
+
 
 - 👋 Hi, I’m @gaurav1088, a software engineer and AI enthusiast with a passion for developing innovative tech solutions.
 - 👀 I’m interested in machine learning, natural language processing, object detection, and building platforms that promote sustainability, such as carbon credit exchanges. I also enjoy working on chatbot development and game design for educational purposes.
