@@ -3,6 +3,7 @@
 👋 Hi, I’m @gaurav1088, a software engineer and AI enthusiast with a passion for developing innovative tech solutions.<br>👀 I’m interested in machine learning, natural language processing, object detection, and building platforms that promote sustainability, such as carbon credit exchanges. I also enjoy working on chatbot development and game design for educational purposes.<br>🌱 I’m currently learning advanced machine learning concepts, deep learning, Django for web development, and real-time data integration for stock graphs. I'm also exploring how to build custom AI models and APIs.<br>💞️ I’m looking to collaborate on projects involving AI-driven solutions, environmental initiatives (carbon credits and green technology), hate speech detection, and any other challenges that push the boundaries of machine learning and tech innovation.<br>📫 How to reach me: Feel free to message me here or email me at gaurav.mishra8979@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m a tech geek at heart with a soft spot for coding challenges and game development. I also love finding ways to use AI to make the world a better place!
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravmishra108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mishraji108) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.mishra8979@gmail.com) 
 
